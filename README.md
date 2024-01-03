@@ -29,7 +29,7 @@ React App-Movies is built using the following technologies:
 
 # 🍿 Demo 
 
-- Check out our live demo at https://movie-wahyu.web.app/
+- Check out our live demo at https://movie-wahyu.netlify.app/
 
 # 😍 Contribution
 Contributions are always welcome, open a **Pull Request** and help us improve our project.
